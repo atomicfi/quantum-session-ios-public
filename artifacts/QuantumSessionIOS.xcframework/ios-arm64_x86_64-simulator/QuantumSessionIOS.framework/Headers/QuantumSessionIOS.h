@@ -6,7 +6,7 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class QSIOSKotlinArray<T>, QSIOSKotlinException, QSIOSKotlinIllegalStateException, QSIOSKotlinRuntimeException, QSIOSKotlinThrowable, QSIOSQuantumSessionCompanion;
+@class QSIOSQuantumSessionCompanion, QSIOSKotlinThrowable, QSIOSKotlinArray<T>, QSIOSKotlinException, QSIOSKotlinRuntimeException, QSIOSKotlinIllegalStateException;
 
 @protocol QSIOSKotlinIterator;
 
