@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/QuantumSessionIOS.framework/QuantumSessionIOS</key>
 		<data>
-		PwzoGagHxOPm/pDr0yFjPgI05Yc=
+		RK2xdlUmQDUPvMVNT0GXO38sTjk=
 		</data>
 		<key>ios-arm64/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Resources/DWARF/QuantumSessionIOS</key>
 		<data>
-		7PHkgt88UU4l6lTKUDMTL/2uzKA=
+		st+Wxg9cwrnI7vZFBI3aIOqGkEk=
 		</data>
 		<key>ios-arm64/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Resources/Relocations/aarch64/QuantumSessionIOS.yml</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumSessionIOS.framework/QuantumSessionIOS</key>
 		<data>
-		5AJwwbI+VXXI7lQO9piwkB979ac=
+		Bl6ALCrrGlKwWwI6daHea8iZHw4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Resources/DWARF/QuantumSessionIOS</key>
 		<data>
-		r3PWmCFik3sVxQaULc5QE1zInno=
+		9zom04mIpKRoDdD43Mek2SAMPx4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -96,11 +96,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PwzoGagHxOPm/pDr0yFjPgI05Yc=
+			RK2xdlUmQDUPvMVNT0GXO38sTjk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zZSAUalNzwkINMH9K+NtZTeqvcvw82HIMBBfI0iTgSo=
+			VzQWpObmOKbvrwoLm/xNR+aeCJ3eK0zwIGHqpbryjsg=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Info.plist</key>
@@ -118,11 +118,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7PHkgt88UU4l6lTKUDMTL/2uzKA=
+			st+Wxg9cwrnI7vZFBI3aIOqGkEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FUQN6+DWebMR/B1Hix5dbfqFtM8voqwcrBXo2fvhDjI=
+			lTPLjcPkLTANKkeBqkyVC7uzY3mDO3jS26mkkWogX/s=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Resources/Relocations/aarch64/QuantumSessionIOS.yml</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5AJwwbI+VXXI7lQO9piwkB979ac=
+			Bl6ALCrrGlKwWwI6daHea8iZHw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			SKRcbUg1br2TAtl1TeduWWO9jD9DmJvqbiuL02mAC+E=
+			mQblX7twI9rwKVzqNyQRPO2r+2lrO13AylQtyogj0Hc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/QuantumSessionIOS.framework.dSYM/Contents/Info.plist</key>
@@ -195,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r3PWmCFik3sVxQaULc5QE1zInno=
+			9zom04mIpKRoDdD43Mek2SAMPx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XjhOcTBCdxwVK8vZFQw22BB5VEtEEsKRIzDc/tRIs8U=
+			nTg+rUPGDFWBHQzi7tsMxgnfUDH9wxuyie7Sd5POE7I=
 			</data>
 		</dict>
 	</dict>
